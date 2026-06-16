@@ -1,3 +1,7 @@
+# Live Links
+- Frontend: https://react-ecommerce-frontend-rho.vercel.app/
+- Backend: srv-d8oep0p194ac73bteosg
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
