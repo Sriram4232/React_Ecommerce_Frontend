@@ -5,7 +5,7 @@ function Products({searchquery}) {
    //fetch the product dat from the fakestore Api
     useEffect(() => {
       
-      fetch('http://localhost:3000/products')
+      fetch('https://react-ecommerce-backend-vlnk.onrender.com/products')
     .then(response => response.json())
     .then(data => setproducts(data));
     
